@@ -1,2 +1,10 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
+# Ebay-smart-contract
+
+'''
+npm install
+truffle develop
+compile
+migrate
+npm run dev
+.\node_modules\.bin\nodemon server.js
+'''
